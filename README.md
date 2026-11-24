@@ -41,33 +41,6 @@ const ricardo = {
 
 </div>
 
-## `> tree ./mapa-mental`
-
-```mermaid
-mindmap
-  root((Ricardo Mangabeiro))
-    Back-end
-      Node.js
-        NestJS
-        TypeScript
-      JVM
-        Java
-        Spring Boot
-        Kotlin
-    Front-end
-      React
-      JavaScript
-      TypeScript
-    Dados
-      MySQL
-      TypeORM
-      Modelagem relacional
-    Ferramentas
-      Git
-      GitHub
-      GitHub Actions
-```
-
 ## `> git log --stats`
 
 <div align="center">
